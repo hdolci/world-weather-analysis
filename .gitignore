@@ -130,3 +130,6 @@ dmypy.json
 
 # Adding config.py file.
 config.py
+
+# OSX
+.DS_Store
